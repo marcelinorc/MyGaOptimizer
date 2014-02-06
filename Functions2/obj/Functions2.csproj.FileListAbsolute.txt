@@ -1,0 +1,8 @@
+C:\Marcelstuffs\proyectos\MyOptimizer\Functions2\bin\Debug\Functions2.dll
+C:\Marcelstuffs\proyectos\MyOptimizer\Functions2\bin\Debug\Functions2.pdb
+C:\Marcelstuffs\proyectos\MyOptimizer\Functions2\bin\Debug\MyOptimizer.exe
+C:\Marcelstuffs\proyectos\MyOptimizer\Functions2\bin\Debug\TransparentBlue.PluginFramework.dll
+C:\Marcelstuffs\proyectos\MyOptimizer\Functions2\bin\Debug\TransparentBlue.GA.dll
+C:\Marcelstuffs\proyectos\MyOptimizer\Functions2\bin\Debug\TransparentBlue.PluginFramework.pdb
+C:\Marcelstuffs\proyectos\MyOptimizer\Functions2\bin\Debug\MyOptimizer.pdb
+C:\Marcelstuffs\proyectos\MyOptimizer\Functions2\bin\Debug\TransparentBlue.GA.pdb
